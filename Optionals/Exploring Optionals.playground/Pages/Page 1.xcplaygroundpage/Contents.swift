@@ -15,7 +15,8 @@
  */
 // Type the code below this line
 
-
+var myName : String?
+print(myName)
 /*:
  
  Open the debug area by pressing **Command-Shift-Y**.
